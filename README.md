@@ -2,7 +2,13 @@
 
 ### Current Version : v1.0.1
 
-The Code can encode / obfuscate an python file (.py). It will not only obfuscate the input file but it will also add about 10 mb of random data, the python script will still work like usual but the code is not recognizable with naked eye or for someone who doesnt have basic knowledge of these things. _It will always check for an update and notify you if there is one_ so **it Will give an error when you execute it without any wifi**.
+### 
+```diff 
+- ONLY FOR EDUCATIONAL PURPOSES 
+```
+
+
+The Code can encode / obfuscate an python file (.py). It will not only obfuscate the input file but it will also add about 10 mb of random data, the python script will still work like usual but the code is not recognizable with naked eye or for someone who doesnt have basic knowledge of these things. Can be used for Hacking. _It will always check for an update and notify you if there is one_ so **it Will give an error when you execute it without any wifi**.
 
 ## Installation
 
