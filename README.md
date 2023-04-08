@@ -13,6 +13,7 @@ The Code can encode / obfuscate an python file (.py). It will not only obfuscate
 ## Installation
 
 You only need python3, I made it so that you dont need to install extra library's
+You can also download it from My website : [Thomasthehacker's site](https://thomasthehacker.github.io)
 ## Usage
 
 ```python
